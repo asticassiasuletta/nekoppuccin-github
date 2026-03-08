@@ -1,2 +1,12 @@
-# nekoppuccin-github
-nekoppuccin for github and i'm trash
+<h3 align="center">
+  Nekoppuccin for <a href="https://github.com">GitHub</a>
+</h3>
+
+## Usage
+Install the Stylus userstyle manager.
+[Click here and install!](https://userstyles.catppuccin.com/getting-started/usage/).
+&nbsp;
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
