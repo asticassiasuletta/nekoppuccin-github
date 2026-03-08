@@ -3,7 +3,7 @@
 </h3>
 
 ## Usage
-Install the Stylus userstyle manager.
+Install the Stylus userstyle manager.  
 [Click here and install!](https://userstyles.catppuccin.com/getting-started/usage/).
 &nbsp;
 
