@@ -4,7 +4,7 @@
 
 ## Usage
 Install the Stylus userstyle manager.  
-[Click here and install!](https://userstyles.catppuccin.com/getting-started/usage/).
+[Click here and install!](https://github.com/asticassiasuletta/nekoppuccin-github/raw/refs/heads/main/github.user.less).
 &nbsp;
 
 <p align="center">
